@@ -1,0 +1,15 @@
+.error404 {
+  color: rgb(232, 12, 12);
+  /* display: block; */
+  text-align: center;
+  /* margin-top: 50px; */
+  background: url(../../img/Error.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  position: absolute;
+  height: 100%;
+  width: 100%; 
+  top: 0;
+  left: 0;
+}

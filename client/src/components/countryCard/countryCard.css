@@ -1,0 +1,49 @@
+.countryCard {
+/* display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center; */
+display: inline-block;
+align-items: center;
+}
+
+/*Image*/
+.card-image {
+  margin-top: 60px;
+  align-items: center;
+  margin-left: 25px;
+  width: 380px;
+  height: auto;
+  border-radius: 30px;
+  background: #e0e0e0;
+  box-shadow: 15px 15px 30px #bebebe,
+  -15px -15px 30px #ffffff;
+}
+
+.name {
+  text-align: center;
+  color: rgb(255, 0, 0);
+  padding-top: 15px;
+  font-family: cursive;
+}
+
+.img {
+  width: 300px;
+  margin-left: 35px;
+  border-radius: 50px;
+  height: 160px;
+}
+
+/* .capital {
+  text-align: center;
+  color: rgb(255, 0, 0);
+  margin-bottom: 30px;
+} */
+
+.continent {
+  text-align: center;
+  color: rgb(255, 0, 0);
+  padding-bottom: 60px;
+}
+
+

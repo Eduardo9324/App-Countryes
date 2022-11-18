@@ -1,0 +1,19 @@
+.btn-reset {
+  background-color: #729cb2;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: 6px 5px 24px #666666;
+  color: #fafafa;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-family: cursive;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}

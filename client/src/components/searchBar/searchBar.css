@@ -1,0 +1,23 @@
+.title h1 {
+  font-family: cursive;
+  position: absolute;
+  color: azure;
+  margin-left: 30px;
+  height: 20px;
+  margin-top: 50px;
+}
+
+.searchBar {
+  margin-top: 15px;
+  text-align: center;
+  margin-left: 510px;
+  display: flex;
+  line-height: 28px;
+  align-items: center;
+  position: relative;
+  max-width: 190px;
+  outline: none;
+  border-color: rgba(45, 82, 105, 0.566);
+  /* background-color: #fff; */
+  box-shadow: 0 0 0 4px rgba(48, 86, 147, 0.1);
+}

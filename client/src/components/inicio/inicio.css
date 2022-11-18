@@ -1,0 +1,26 @@
+.title h1 {
+  font-family: cursive;
+  position: absolute;
+  color: azure;
+  margin-left: 30px;
+  height: 20px;
+  margin-top: 50px;
+}
+
+.ingresar {
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 135px;
+}
+
+.logo1 {
+  background-image: url(../../img/logoc.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  position: absolute;
+  height: 100%;
+  width: 100%;   
+  top: 0;
+  left: 0;
+}

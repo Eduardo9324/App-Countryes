@@ -1,0 +1,116 @@
+.go-back {
+  display: flex;
+  justify-content: center;
+}
+
+.vol {
+  background-color: #729cb2;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: 6px 5px 24px #666666;
+  color: #fafafa;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-family: cursive;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 50px;
+  display: flexbox;
+  justify-content: center;
+  margin-left: 75px;
+}
+
+/* .content-button {
+  
+}
+ */
+.title-activity {
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+  color: white;
+  font-family: cursive;
+}
+
+.btn-createActivity {
+  background-color: #729cb2;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: 6px 5px 24px #666666;
+  color: #fafafa;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-family: cursive;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 50px;
+  display: flexbox;
+  justify-content: center;
+}
+
+.content-btnCa {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.general-contnet {
+  /* width: 280px;
+  height: 260px;
+  background-image: linear-gradient(163deg, #ffaa00 0%, #3700ff 100%);
+  border-radius: 20px;
+  transition: all .3s;
+  text-align: center;
+  margin-left: 485px; */
+
+  width: 350px;
+  height: 360px;
+  background-color: #1a1a1a;
+  border-radius: 20px;
+  transition: all .2s;
+  margin-left: 485px;
+  text-align: center;
+  display: flexbox;
+  justify-content: center;
+}
+
+.lab-nombre {
+  /* text-align: left; */
+  padding-right: 15px;
+  margin-right: 10px;
+}
+
+.lab-difi {
+  /* text-align: left; */
+  padding-right: 15px;
+  margin-right: 20px;
+}
+
+.lab-duracion {
+  /* text-align: left; */
+  padding-right: 15px;
+  margin-right: 5px;
+}
+
+.lab-tem {
+  /* text-align: left; */
+  padding-right: 15px;
+ /*  margin-right: 0px; */
+}

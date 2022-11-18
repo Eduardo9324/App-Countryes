@@ -1,0 +1,29 @@
+/* .title {
+  text-align: center;
+} */
+
+body {
+ background: url(../../img/logoc.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  position: absolute;
+  height: 100%;
+  width: 100%; 
+  top: 0;
+  left: 0;
+}
+
+.fullNav {
+  color: white;
+  border: none;
+  /* cursor: pointer; */
+  padding:20px;
+  margin-top:10px;
+}
+
+.renderCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
